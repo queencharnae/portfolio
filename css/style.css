@@ -1,0 +1,34 @@
+body{
+	background-color: #FFCCE5;
+}
+
+.nae{
+	height: 10px;
+	width:13px;
+	
+}
+.navbar{
+	font-weight: bold;
+	background-color: #31BABF;
+}
+
+.jumbotran{
+	position: relative;
+	background: url("../images/n 093.jpg") center center;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	overflow: hidden;
+	padding-bottom: -90px;
+}
+.jumbotran_text{
+	background-color: #133FD2;
+	color: 
+}
+.profilepic{
+	border: 10px solid #FFCCE5;
+}
+#footer{
+	text-align: center;
+	margin-top: 50px;
+}
